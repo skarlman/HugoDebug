@@ -1,0 +1,2 @@
+# HugoDebug
+Debugging Hugo
